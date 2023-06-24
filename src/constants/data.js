@@ -60,22 +60,22 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Gericht has been consistently acknowledged as one of the city\'s top fine dining establishments, recognized by esteemed publications and local industry experts.',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Our culinary artistry has been applauded by renowned critics, who have bestowed upon us prestigious Critic\'s Choice Awards.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: ' We are honored to have received the AAA Hospitality Award, a testament to our commitment to provide exceptional service, attention to detail, and creating an unforgettable dining experiences.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Our visionary and accomplished chef has been bestowed the prestigious Outstanding Chef Award, a testament to their talent, unwavering dedication, and exceptional contributions to the culinary world.',
   },
 ];
 
